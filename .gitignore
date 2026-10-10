@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+# Persoonlijke Obsidian-instellingen (niet delen)
+inhoud/.obsidian/workspace.json
+inhoud/.obsidian/workspace-mobile.json
+inhoud/.obsidian/cache
+inhoud/.trash/

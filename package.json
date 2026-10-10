@@ -1,0 +1,20 @@
+{
+  "name": "anesthesiologisch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AnesthesioLogisch – interactieve kennissite voor (aankomend) anesthesiemedewerkers en anesthesiologen, gevuld vanuit een Obsidian-kluis.",
+  "type": "module",
+  "scripts": {
+    "build": "node site/build.mjs",
+    "dev": "node site/dev.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-mark": "^4.0.0",
+    "yaml": "^2.9.1"
+  }
+}

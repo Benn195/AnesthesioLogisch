@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Website starten",
+      "type": "npm",
+      "script": "dev",
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "anesthesiologisch",
+        "pattern": { "regexp": "^__nooit__$" },
+        "background": {
+          "activeBegins": true,
+          "beginsPattern": "pagina's gebouwd",
+          "endsPattern": "draait op http"
+        }
+      },
+      "group": { "kind": "build", "isDefault": true }
+    }
+  ]
+}

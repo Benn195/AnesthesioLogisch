@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "_bijlagen",
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "propertiesInDocument": "visible",
+  "userIgnoreFilters": []
+}

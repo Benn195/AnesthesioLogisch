@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Website bekijken (Chrome)",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:4321",
+      "preLaunchTask": "Website starten"
+    },
+    {
+      "name": "Website bekijken (Edge)",
+      "type": "msedge",
+      "request": "launch",
+      "url": "http://localhost:4321",
+      "preLaunchTask": "Website starten"
+    }
+  ]
+}
