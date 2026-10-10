@@ -10,24 +10,31 @@ aliases: []
 | | |
 |---|---|
 | **Groep** |  |
-| **Werking** |  |
 | **Begin werking** |  |
 | **Duur** |  |
+| **Kenmerk** |  |
+
+## Werkingsmechanisme
+
+
+## Indicaties
+- 
+
+## Contra-indicaties
+- **Absoluut:** 
+- **Relatief:** 
+
+## Dosering
 
 > [!dosering] Dosering (volwassene)
 > - **Inductie:** 
 > - **Onderhoud:** 
 
-## Effecten
+## Bijwerkingen en aandachtspunten
+- 
 
-- **Centraal zenuwstelsel:** 
-- **Cardiovasculair:** 
-- **Respiratoir:** 
-
-> [!warning] Let op
-> - 
-
-## Test jezelf
+> [!klinisch] In de praktijk
+> 
 
 ```quiz
 Vraag: 
