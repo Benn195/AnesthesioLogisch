@@ -19,9 +19,9 @@ Dat is alles. 🎉
 
 ## 2. Een nieuwe pagina maken
 
-1. Klik met de rechtermuisknop op de map waar de pagina in hoort (bijv. *Farmacologie*) → **Nieuwe notitie**.
+1. Klik met de rechtermuisknop op de map waar de pagina in hoort (bijv. *Farmacologie/Opioïden*) → **Nieuwe notitie**.
 2. Geef de notitie een duidelijke naam, bijv. `Ketamine`. Die naam wordt de titel op de website.
-3. Kies via `Ctrl/Cmd + P` → *Sjabloon invoegen* het sjabloon **Nieuwe pagina** of **Nieuw medicijn**.
+3. Kies via `Ctrl/Cmd + P` → *Sjabloon invoegen* het sjabloon **Nieuwe pagina**, **Nieuw medicijn** of **Nieuwe vaardigheid**.
 4. Vul de tekst in.
 
 **Een nieuw onderwerp (map)?** Maak een nieuwe map, en daarin een notitie met *precies dezelfde naam* als de map (bijv. `Luchtweg/Luchtweg.md`). Die notitie wordt de overzichtspagina van dat onderwerp, en het onderwerp verschijnt vanzelf als kaart op de startpagina.

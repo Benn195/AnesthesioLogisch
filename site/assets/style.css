@@ -225,6 +225,7 @@ kbd {
 .prose hr { border: 0; border-top: 1px solid var(--rand); margin: 2.5em 0; }
 .prose table { width: 100%; border-collapse: collapse; margin: 1.4em 0; font-size: 15px; display: block; overflow-x: auto; }
 .prose th, .prose td { padding: 10px 14px; border-bottom: 1px solid var(--rand); text-align: left; vertical-align: top; }
+.prose thead:not(:has(th:not(:empty))) { display: none; }
 .prose th { background: var(--bg-3); font-weight: 650; font-size: 13.5px; text-transform: uppercase; letter-spacing: .03em; color: var(--tekst-2); }
 .prose tbody tr:hover { background: color-mix(in srgb, var(--bg-3) 50%, transparent); }
 .prose img { display: block; margin: 1.5em auto; box-shadow: var(--schaduw); }
